@@ -1,1 +1,1 @@
-# licensi
+lyn
